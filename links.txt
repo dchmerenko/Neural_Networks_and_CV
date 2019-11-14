@@ -1,3 +1,5 @@
 Ссылки по курсу из материалов лекций и комментариев 
+
+colab.research.google.com
 2.6.4 https://ru.wikipedia.org/wiki/Градиентный_спуск
 2.6.6 https://habr.com/ru/post/334380/ PyTorch — ваш новый фреймворк глубокого обучения
